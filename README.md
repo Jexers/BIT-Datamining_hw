@@ -1,1 +1,9 @@
-# Datamining_hw
+# BIT Datamining Homework
+
+北京理工大学2022年数据挖掘互评作业
+
+
+
+##  互评作业1
+
+#### hw1 -> README.md
